@@ -1,0 +1,4 @@
+2023-09-10 20:54:16,205 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-09-10 20:54:17,067 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2023-09-10 20:54:17,069 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\鲜花网电商项目\Code\Flower\Flower\bin\Release\net6.0\publish\
+2023-09-10 21:15:06,381 [4] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...

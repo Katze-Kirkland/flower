@@ -1,0 +1,12 @@
+D:\鲜花网电商项目\Code\Flower\Flower.Model\bin\Release\net6.0\Flower.Model.deps.json
+D:\鲜花网电商项目\Code\Flower\Flower.Model\bin\Release\net6.0\Flower.Model.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Model\bin\Release\net6.0\Flower.Model.pdb
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.csproj.AssemblyReference.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.AssemblyInfoInputs.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.AssemblyInfo.cs
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.csproj.CoreCompileInputs.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\refint\Flower.Model.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\Flower.Model.pdb
+D:\鲜花网电商项目\Code\Flower\Flower.Model\obj\Release\net6.0\ref\Flower.Model.dll

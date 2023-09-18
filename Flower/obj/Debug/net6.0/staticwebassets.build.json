@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6l7LqaFEoybZ/TwvjU6DzonXSGDAingc1u32xlZtDQM=",
+  "Source": "Flower.WebAPI",
+  "BasePath": "_content/Flower.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

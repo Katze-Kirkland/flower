@@ -1,0 +1,15 @@
+D:\鲜花网电商项目\Code\Flower\Flower.Common\bin\Debug\net6.0\Flower.Common.deps.json
+D:\鲜花网电商项目\Code\Flower\Flower.Common\bin\Debug\net6.0\Flower.Common.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Common\bin\Debug\net6.0\Flower.Common.pdb
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.csproj.AssemblyReference.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.AssemblyInfoInputs.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.AssemblyInfo.cs
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.csproj.CoreCompileInputs.cache
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\refint\Flower.Common.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.pdb
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\ref\Flower.Common.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Common\bin\Debug\net6.0\Flower.Model.dll
+D:\鲜花网电商项目\Code\Flower\Flower.Common\bin\Debug\net6.0\Flower.Model.pdb
+D:\鲜花网电商项目\Code\Flower\Flower.Common\obj\Debug\net6.0\Flower.Common.csproj.CopyComplete

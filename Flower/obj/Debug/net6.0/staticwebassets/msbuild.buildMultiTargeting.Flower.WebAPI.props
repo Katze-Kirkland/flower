@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Flower.WebAPI.props" />
+</Project>
